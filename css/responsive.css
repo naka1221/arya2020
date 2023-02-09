@@ -549,5 +549,8 @@ textarea{
     .contact-left__list{
         margin-right: 0;
     }  
+      .contact-content-btn{
+        width: 70%;
+    }
 }
 
